@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Shehan;Software+Engineer+and+Web+Developer;I'm+Studying+in+IJSE+Institute">
 </p>
-<h3 align="center">Student at IJSE,Galle, Sri Lanka🌟.</h3>
+<h3 align="center">Student at IJSE,Galle, Sri Lanka.</h3>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kavindushehansayakkara@gmail.com**
 
-- ⚡ Fun fact :- Playing Car Game & Watching Movies 
+- ⚡ Fun fact :- Playing Car Game & Learning Code
 
 <br>
 
