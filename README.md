@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Sayuranga;Software+Engineer+and+Web+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Shehan;I'MSoftware+Engineer+and+Web+Developer">
 </p>
-<h3 align="center">Student at IJSE, Sri Lanka🌟.</h3>
+<h3 align="center">Student at IJSE,Galle, Sri Lanka🌟.</h3>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **ksayuranga00@gmail.com**
+- 📫 How to reach me **kavindushehansayakkara@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -17,15 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kavindu-sayuranga/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/kavindu.sayuranga.00" target="blank"><img align="center"
+  <a href="https://www.facebook.com/profile.php?id=100077026892529&mibextid=ZbWKwL" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/kavindu_sayuranga/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+ 
 
 </p>
 
