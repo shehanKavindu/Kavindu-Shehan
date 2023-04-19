@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Shehan;I'MSoftware+Engineer+and+Web+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Shehan;I'm Software+Engineer+and+Web+Developer">
 </p>
 <h3 align="center">Student at IJSE,Galle, Sri Lanka🌟.</h3>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kavindushehansayakkara@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Playing Car Game & Watching Movies 
 
 <br>
 
