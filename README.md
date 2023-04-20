@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=#db9833center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Shehan;Software+Engineer+and+Web+Developer;I'm+Studying+in+IJSE+Institute">
+<img src="https://readme-typing-svg.herokuapp.com?color=yellowCenter=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Kavindu+Shehan;Software+Engineer+and+Web+Developer;I'm+Studying+in+IJSE+Institute">
 </p>
 <h3 align="center">Student at IJSE,Galle, Sri Lanka.</h3>
 
